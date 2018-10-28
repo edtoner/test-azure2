@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/edtoner/testproject/_apis/build/status/edtoner.test-azure2)](https://dev.azure.com/edtoner/testproject/_build/latest?definitionId=1)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
